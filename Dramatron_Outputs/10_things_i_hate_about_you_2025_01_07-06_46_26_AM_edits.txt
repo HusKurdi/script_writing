@@ -1,0 +1,181 @@
+EDIT @ 1736228745.497449
+STORYLINE
+movie about a father who loses his beautiful girl by drug-influenced mob invaders who wanted to destroy the rural house just for fun then they burn down the house and father starts a revenge story.
+
+
+EDIT @ 1736228747.0137396
+STEP 1
+Title: 10 Things I hate about you<end>
+
+
+EDIT @ 1736228750.9160745
+STEP 2
+
+
+<character> Father <description> The father is the protagonist of the movie. He struggles against drug-influenced mobsters that have destroyed his peaceful life, killing his daughter, and setting fire to his house. The Father seeks vengeance for the loss of his loved ones. <stop>
+
+<character> Drug Mobsters <description> Drug Mobsters are villains in the film; destroying homes and families for no reason other than to feel powerful and have fun. <stop>
+
+<character> Girlfriend <description> The Girlfriend was the Father's beautiful and kind daughter, killed during the invasion by the drug mobsters. <stop>
+
+<character> Police <description> The Police investigate the crime scene and try to find the perpetrators of this heinous act. <stop>
+
+<character> Father's Friends <description> The Father's friends try to help him cope with his tragic loss. <stop>
+<end>
+
+
+EDIT @ 1736228754.6076536
+REWRITE scenesDeleted element
+
+
+EDIT @ 1736228754.6166496
+STEP 3
+
+Place:  Rural House.
+Plot element:  Exposition.
+Beat:  The Girlfriend discusses with her father their plans for the evening at the local party. In the background, the mobsters are preparing for their attack on the house.
+
+Place:  Rural House.
+Plot element:  Inciting Incident.
+Beat:  After dark, the mobsters burst into the house, shooting wildly. The Father tries to protect his daughter, but she is shot and killed. The house burns down around them.
+
+Place:  Police Station.
+Plot element:  Rising Action.
+Beat:  The Father reports the incident to the police. The police begin investigating, asking questions about the people who broke into the house and killed the Father's daughter. The Father describes the assailants as being part of a drug gang.
+
+Place:  Local Bar.
+Plot element:  Dilemma.
+Beat:  The Father confronts some of the members of the drug gang. They mock him and call him a weakling for not being able to stop them. The Father, fueled by grief and rage, vows to find those responsible and make them pay.
+
+Place:  Drug Den.
+Plot element:  Climax.
+Beat:  With the help of an informant, the Father locates the hideout of the drug gang. He storms the den, armed with guns and a fierce determination. A brutal shootout ensues, leaving many of the drug dealers dead.
+
+Place:  Hospital.
+Plot element:  Falling Action.
+Beat:  The Father is rushed to the hospital after being wounded in the shootout. His friends visit him, trying to console him but also warning him against taking the law into his own hands.
+
+Place:  Drug Lord's Mansion.
+Plot element:  Resolution.
+Beat:  The Father tracks down the leader of the drug gang, a powerful man who was not present during the shootout. Using all his skills, the Father sneaks into the mansion and confronts the Drug Lord. In a final showdown, the Drug Lord is killed and the Father escapes.
+<end>
+
+
+EDIT @ 1736228762.837409
+STEP 4
+Place: Police Station.
+Description: 1950's small town police station where no one ever suspects any trouble.
+
+Place: Local Bar.
+Description: It's a cold winter night in a small town. The bar is dark with only a few dim lights flickering from time to time. A fireplace crackles in the corner, its warmth barely noticeable in the frigid air.
+
+Place: Drug Lord's Mansion.
+Description: Inside a luxurious mansion that reflects the dark heart of the owner with high tech gadgets hidden everywhere. The opulent home is filled with people partying while the father and his daughter are huddled on the couch, waiting.
+
+Place: Hospital.
+Description: 1960s rural town, dilapidated, poor, rundown hospital with peeling paint and worn tile floor.
+
+Place: Rural House.
+Description: 1970’s style American rural house with an open wooden gate and large wooded area behind it.
+
+Place: Drug Den.
+Description: 1970’s rundown warehouse in a desolate suburban area. The entrance door has been broken, with graffiti scrawled across it.
+
+
+
+
+EDIT @ 1736228772.716188
+REWRITE places Police Station.
+
+
+
+EDIT @ 1736228772.7191875
+REWRITE places Local Bar.
+
+
+
+EDIT @ 1736228772.7221866
+REWRITE places Drug Lord's Mansion.
+
+
+
+EDIT @ 1736228772.7271829
+REWRITE places Hospital.
+
+
+
+EDIT @ 1736228772.73118
+REWRITE places Rural House.
+
+
+
+EDIT @ 1736228772.7341783
+REWRITE places Drug Den.
+
+
+
+EDIT @ 1736228772.7741778
+STEP 5
+GIRLFRIEND
+Hey Dad, there's gonna be a big party tonight. I want to go, but you know mom doesn't like me hanging out late and...
+FATHER
+Yeah, you're right. I don't want you sneaking around late either. But there's no harm in having fun tonight, as long as we all stick together. And what do you say about walking over to our friend's place for dinner first? It won't be too late.
+GIRLFRIEND
+(Nodding) Sure, that sounds good.
+
+MOBSTER #1 (whispering to other mobsters outside of the house)
+Come on, guys, let's get this shit started. We need to burn that house down and kill whoever is inside. Come on! (Mobsters move towards the front gate of the house.)
+
+FATHER
+(Smiling) Okay, you can come with us if you want. Let's get going.
+</end><end>
+
+
+EDIT @ 1736228778.317976
+REWRITE dialogs-</end><end>
++</end>
+
+
+EDIT @ 1736228778.3249717
+STEP 5
+
+GIRLFRIEND
+Tonight we are going to have a great time! Let me call up Lisa.
+
+FATHER
+I said I can't go. You know I am busy working late tonight.
+
+GIRLFRIEND
+You work too much. You need to relax every now and then. It is not healthy to stay at work all the time.
+
+FATHER
+You don't understand. This is important. These guys are coming in tonight and I want everything ready before they get here.
+
+GIRLFRIEND
+Who? Who is coming? What is so important that you can't spend one night out with your friends? You never even do that. Why should it be different this time?
+
+FATHER
+Listen. Listen... There's been some trouble. Things that happened in my past have caught up to us. They found the warehouse. Now they will come after us looking for payback.
+
+GIRLFRIEND
+Them again? That bunch of criminals? But we had nothing to do with what happened. We were just there, helping them move goods. And now because of this they think they have the right to destroy us. We have lived in peace. They have no reason to bother us.
+
+FATHER
+We should have left town long ago. We knew this would happen eventually. But we stayed. Because we had roots here. Family. Friends. People who care about us. And because we didn't want to give in to them. To let them take over our lives.
+
+GIRLFRIEND
+That is not a good enough reason to stay here anymore, dad. I am sorry but I cannot spend the rest of my life hiding and waiting for these people to strike again. It is wrong. It is unfair. It is dangerous!
+
+FATHER
+You are young and don't understand yet how the world works. One day you will learn that the bad guys never lose. It is just a matter of time.
+
+GIRLFRIEND
+I know. But not when it concerns me. I can't live like this anymore, daddy.
+
+FATHER
+Go to Lisa's then. Get out of my sight. I need to work.
+
+GIRLFRIEND
+Dad... I love you. I always will. No matter<end>
+
+

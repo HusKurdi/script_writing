@@ -1,0 +1,1 @@
+{"language_api_name": "kobold", "model_name": "modelname", "max_retries": 10, "sample_length": 511, "max_paragraph_length": 1024, "max_paragraph_length_characters": 1024, "max_paragraph_length_scenes": 1024, "sampling": {"prob": 0.9, "temp": 0.9, "frequency_penalty": 1.23, "presence_penalty": 0.9}, "file_dir": "Dramatron_Outputs/"}
