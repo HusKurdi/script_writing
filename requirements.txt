@@ -18,7 +18,7 @@ jupyter_nbextensions_configurator==0.6.4
 jupyterlab_widgets==3.0.13
 lxml==5.3.0
 
-pywin32==305.1
+#pywin32==305.1
 
 setuptools==75.1.0
 
