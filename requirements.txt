@@ -63,7 +63,6 @@ overrides @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/overri
 packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso @ file:///C:/b/abs_834b4mj92b/croot/parso_1733963322289/work
-pip @ file:///C:/b/abs_9btgg364vx/croot/pip_1723485053292/work
 platformdirs @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/platformdirs_1701797392447/work
 prometheus_client @ file:///C:/b/abs_e7l07zkc4b/croot/prometheus_client_1731961599071/work
 prompt-toolkit @ file:///C:/b/abs_68uwr58ed1/croot/prompt-toolkit_1704404394082/work
